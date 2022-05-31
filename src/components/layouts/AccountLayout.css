@@ -1,0 +1,11 @@
+.AccountLayout .main-container {
+  display: flex;
+}
+
+.AccountLayout aside {
+  width: 25%;
+}
+
+.AccountLayout main {
+  width: 100%;
+}
